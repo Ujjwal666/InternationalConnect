@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android_user_registration</string>
+
+
+    <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id" translatable="false">mhKQFWXGt59yXfndUda4WIncUnK5WRanF19mQcQp</string>
+    <string name="back4app_client_key" translatable="false">d2siCwJW8yxibJbStGPMVFJN78DbZQHPzPpeVi6w</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Search Fragment</string>
+
+</resources>
