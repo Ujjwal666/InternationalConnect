@@ -38,7 +38,7 @@ public class LogoutActivity extends AppCompatActivity {
                     break;
                 case R.id.action_search:
                     fragment=new SearchFragment();
-                    Toast.makeText(LogoutActivity.this, "Searrch", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(LogoutActivity.this, "Groups", Toast.LENGTH_SHORT).show();
                     break;
                 case R.id.action_profile:
                 default:

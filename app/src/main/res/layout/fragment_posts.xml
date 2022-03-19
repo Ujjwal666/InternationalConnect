@@ -5,8 +5,13 @@
     android:layout_height="match_parent"
     tools:context=".fragments.PostsFragment">
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Activity"/>
+
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-        xmlns:android = "http://schemas.android.com/apk/res/android"
         android:id="@+id/swipeContainer"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
