@@ -1,4 +1,4 @@
-Inspiration
+<h1>Inspiration</h1>
 We are a group of international students from Nepal. While coming to the capital of the United States to go to college at Howard, we had to face a lot of challenges just to survive. Finding classrooms, finding housing resources, finding on-campus jobs and everything else. We wished that something like International+ existed that solely helped international students. Keeping ourselves and all other international students that are yet to come to Howard to find their dreams, we came up with International+
 
 What it does
